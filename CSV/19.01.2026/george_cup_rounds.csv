@@ -1,0 +1,7 @@
+id,season_id,round_number,round_name,total_fixtures,is_available,created_at,game_week_id,is_complete,round_end,status
+5125210c-79ae-45ab-8955-ac150cdea910,27404307-72b4-4518-a32c-ce15384915d9,3,Round of 16,8,false,2026-01-05 18:59:47.799+00,,false,,not_started
+aae85f07-9967-4f4a-8f8d-54f84d7b8287,27404307-72b4-4518-a32c-ce15384915d9,4,Quarter-finals,4,false,2026-01-05 18:59:47.8+00,,false,,not_started
+cfc3c636-0f8a-4b34-b327-8a536557650d,27404307-72b4-4518-a32c-ce15384915d9,6,Final,1,false,2026-01-05 18:59:47.8+00,,false,,not_started
+d529b023-bb15-4aa1-b871-9ee09b27d288,27404307-72b4-4518-a32c-ce15384915d9,1,Preliminary,2,false,2026-01-05 18:59:47.761+00,7d6130ac-980a-4352-8ec0-29a06643525e,true,,completed
+e5a59c27-5e20-46a6-9ef8-500e9ebefb2c,27404307-72b4-4518-a32c-ce15384915d9,5,Semi-final,2,false,2026-01-05 18:59:47.8+00,,false,,not_started
+e887afe6-d161-4575-bf98-a1de74d73e89,27404307-72b4-4518-a32c-ce15384915d9,2,Round 2,16,false,2026-01-05 18:59:47.799+00,,false,,not_started

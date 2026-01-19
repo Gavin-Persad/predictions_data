@@ -1,0 +1,50 @@
+id,round_id,player_id,team1_name,team2_name,team1_won,team2_won,advanced,created_at
+0115e2aa-b5e3-41dd-8b49-f576d01d58f9,b6cb1a95-0b7a-4320-bbbf-7227e9d4de42,8ed10184-c01b-4913-be71-bf7b48b8163a,Liverpool,Newcastle United,false,true,false,2025-12-02 21:09:51.860355+00
+0b9996c8-644f-42ad-ae06-81c9783dfa50,b6cb1a95-0b7a-4320-bbbf-7227e9d4de42,eff7bddc-a865-47c4-95fb-fe4116d8c288,Brighton & Hove Albion,Manchester City,false,true,false,2025-12-04 17:57:38.342877+00
+0c7fc0e8-9b8a-48f6-a7e9-338fdc413937,b6cb1a95-0b7a-4320-bbbf-7227e9d4de42,e2ffaf02-f17f-4be3-b3ee-651d39315af1,Newcastle United,Manchester United,true,true,true,2025-12-01 10:08:44.435663+00
+15452856-7e88-4c16-b9cc-9e1ab0d87ec5,96abc6de-caa6-45cf-9094-20c65b85c551,f9aa08c8-da66-4064-a39a-3225dadaa1d0,Bournemouth,Ipswich Town,false,true,false,2025-12-18 21:24:42.061774+00
+18964cbc-00fa-4cab-99d4-b8d5ac21e827,b6cb1a95-0b7a-4320-bbbf-7227e9d4de42,9a205562-9e06-49d8-865b-a0dfb3de0b20,Newcastle United,Manchester City,true,true,true,2025-12-03 21:07:40.242124+00
+1dfa77d8-9e89-46fb-9cb7-3ffbc3a5545b,fab7f553-3645-47d6-8e5d-08bcb55c34ad,c2011527-da58-4568-97f9-ec5c223ead8e,Liverpool,Wrexham,,,false,2026-01-15 18:32:14.810703+00
+25c572fd-2717-4b15-96ff-6fdcac1f48c3,b6cb1a95-0b7a-4320-bbbf-7227e9d4de42,3d18f1c8-de23-4c6d-b843-8241da5d994e,Newcastle United,Blackburn Rovers,true,false,false,2025-12-01 00:44:16.187358+00
+3a09ac10-06ed-42c1-9803-12e5a3321447,b6cb1a95-0b7a-4320-bbbf-7227e9d4de42,46a30c5e-11ff-4c44-aa31-29a606850f82,Blackburn Rovers,Manchester United,false,true,false,2025-12-04 13:41:25.996655+00
+45ec311e-1bb3-4a7d-91b1-6f80c3d607ef,b6cb1a95-0b7a-4320-bbbf-7227e9d4de42,49f48e02-6af0-4107-8f27-29f67efc4c3a,Newcastle United,Coventry City,true,false,false,2025-12-04 20:49:58.442031+00
+524b54b3-b58b-4e5e-85df-b6cb88110be4,b6cb1a95-0b7a-4320-bbbf-7227e9d4de42,a98cac4a-9401-4a97-b8e6-93a7caee47e9,Brighton & Hove Albion,Sheffield United,false,true,false,2025-12-01 18:02:40.760079+00
+6416c1e3-6cbb-4bfd-b54a-9d111f631b30,96abc6de-caa6-45cf-9094-20c65b85c551,abe5e91c-2516-47f8-98a7-2b1e70ab13b1,Aston Villa,Crystal Palace,true,false,false,2025-12-18 16:53:35.401637+00
+683683f6-997d-4741-86cf-270bfa392403,b6cb1a95-0b7a-4320-bbbf-7227e9d4de42,584d969b-f2c5-4e89-a226-9d5d47bebe23,Blackburn Rovers,Newcastle United,false,true,false,2025-12-01 14:27:10.628875+00
+6a8d0f96-aa87-40ac-a374-4d4abdf4ee3d,b6cb1a95-0b7a-4320-bbbf-7227e9d4de42,182f8371-048a-4f6e-b95d-149f368c3c44,Newcastle United,Manchester City,true,true,true,2025-12-03 09:24:48.845181+00
+6e15643f-c5ca-4612-ad9c-545cafff3f3a,fab7f553-3645-47d6-8e5d-08bcb55c34ad,c2011527-da58-4568-97f9-ec5c223ead8e,Liverpool,Wrexham,,,false,2026-01-15 18:32:14.888847+00
+730f7f8d-59e9-4c58-9fa0-cdd6d0abdc4b,b6cb1a95-0b7a-4320-bbbf-7227e9d4de42,7151cae2-f54e-4f88-9e6a-8ab7fe755160,Brighton & Hove Albion,Manchester City,false,true,false,2025-12-04 12:05:27.66458+00
+74628ad9-d6a3-4243-abbf-e9ae6271c222,b6cb1a95-0b7a-4320-bbbf-7227e9d4de42,f9aa08c8-da66-4064-a39a-3225dadaa1d0,Manchester City,Newcastle United,true,true,true,2025-12-04 21:53:57.493479+00
+7721a2be-ce8a-462a-8fa4-e5080f2462e6,b6cb1a95-0b7a-4320-bbbf-7227e9d4de42,abe5e91c-2516-47f8-98a7-2b1e70ab13b1,Newcastle United,Manchester City,true,true,true,2025-12-04 15:23:27.289609+00
+7b2aaa45-e246-489f-99e5-aecd86374c9b,b6cb1a95-0b7a-4320-bbbf-7227e9d4de42,6a57188f-50ad-4d66-88e5-64236a293c32,Bristol City,Newcastle United,false,true,false,2025-12-04 20:56:18.900835+00
+7cd3305f-9628-4380-b393-b6e17ae307a3,b6cb1a95-0b7a-4320-bbbf-7227e9d4de42,c4d0c372-0a8c-445d-9994-fe871e8eb544,Watford,Newcastle United,true,true,true,2025-12-04 15:21:45.841347+00
+7f1d8a6f-4521-4bb0-a220-381abe8b910c,b6cb1a95-0b7a-4320-bbbf-7227e9d4de42,ceb258ce-454a-4b5f-9321-73fd28390495,Arsenal,Liverpool,false,false,false,2025-12-01 17:10:57.547384+00
+80d6262a-159d-4538-af99-6c9676f649f6,b6cb1a95-0b7a-4320-bbbf-7227e9d4de42,c8b7ea0d-f644-44ff-b89b-a0e352ff3cec,Arsenal,Birmingham City,false,false,false,2025-12-03 18:13:59.559612+00
+87256c84-6b98-4205-a698-b199b0083d57,b6cb1a95-0b7a-4320-bbbf-7227e9d4de42,6e5a68ef-c26c-4776-8f8c-7f3c22bc3f06,Preston North End,Liverpool,false,false,false,2025-12-01 17:38:23.023273+00
+9348a4a4-833e-46c9-bca2-067fac14c843,b6cb1a95-0b7a-4320-bbbf-7227e9d4de42,298651b6-b5d4-4875-a636-799edae79a84,Newcastle United,Sheffield United,true,true,true,2025-12-04 18:05:26.090958+00
+9371a10d-5ae9-4ff1-99ed-4c23264dd3ba,96abc6de-caa6-45cf-9094-20c65b85c551,95f43b8d-de0d-4dd2-a9bb-0cdfe02e247a,Ipswich Town,Bournemouth,true,false,false,2025-12-16 05:19:53.920011+00
+96e9f8d3-e0dd-43e5-b798-3bc5f9a29d20,b6cb1a95-0b7a-4320-bbbf-7227e9d4de42,b782ca87-97a5-4e94-96b3-fda9d7a93d5d,Newcastle United,Brighton & Hove Albion,true,false,false,2025-12-01 03:08:05.473422+00
+9957d219-e972-48fe-9d04-3ad65e93351d,96abc6de-caa6-45cf-9094-20c65b85c551,c2011527-da58-4568-97f9-ec5c223ead8e,Ipswich Town,Manchester City,true,true,true,2025-12-18 16:38:19.833272+00
+9bf2c7f2-bca8-4d04-a7d5-5cf72837325c,b6cb1a95-0b7a-4320-bbbf-7227e9d4de42,f9410110-ec63-4a83-ad54-2b5df48b9140,Blackburn Rovers,Sheffield United,false,true,false,2025-12-01 07:40:18.000095+00
+a673a1d6-e0dc-4352-b832-bb42ba51dbdf,96abc6de-caa6-45cf-9094-20c65b85c551,182f8371-048a-4f6e-b95d-149f368c3c44,Arsenal,Crystal Palace,true,false,false,2025-12-16 10:44:00.389531+00
+a8b97795-8395-4a75-b979-c050161268f8,96abc6de-caa6-45cf-9094-20c65b85c551,f3b179ce-265d-4bf0-8c6c-a641504ea802,Ipswich Town,Preston North End,true,false,false,2025-12-16 06:47:57.266175+00
+ac528cd7-49c9-4bda-b1b6-c4c70898e2ad,b6cb1a95-0b7a-4320-bbbf-7227e9d4de42,71913bf1-3c89-4850-a771-b807bac56136,Arsenal,Wrexham,false,false,false,2025-12-04 15:47:23.211106+00
+b38467f8-895a-4955-b795-ee04b1fdf92c,c405de58-68e9-4325-b6f5-181c5a285f51,c2011527-da58-4568-97f9-ec5c223ead8e,Aston Villa,Queens Park Rangers,true,true,true,2026-01-01 16:10:37.954984+00
+beadeb7a-101d-431a-b9e0-e879eda992a2,b6cb1a95-0b7a-4320-bbbf-7227e9d4de42,4f4c26c5-21c6-4a45-b9ab-141ea2936063,Liverpool,Manchester City,false,true,false,2025-12-04 17:43:33.683238+00
+bec8b98f-9bb6-4d5d-9a69-d028230aab81,b6cb1a95-0b7a-4320-bbbf-7227e9d4de42,857f0ddb-bbf7-490f-89e7-c393913d1937,Manchester City,Newcastle United,true,true,true,2025-12-04 10:12:02.052048+00
+c97ad5fe-c4cd-4483-8c93-f064577ad8b1,96abc6de-caa6-45cf-9094-20c65b85c551,c4d0c372-0a8c-445d-9994-fe871e8eb544,Ipswich Town,Manchester City,true,true,true,2025-12-17 10:35:13.536906+00
+cb069fda-b67e-486d-a030-076537a72200,fab7f553-3645-47d6-8e5d-08bcb55c34ad,c4d0c372-0a8c-445d-9994-fe871e8eb544,Liverpool,Brighton & Hove Albion,,,false,2026-01-15 18:56:26.093579+00
+cc5b29dd-061f-41ef-9312-31ed30624dfe,b6cb1a95-0b7a-4320-bbbf-7227e9d4de42,c2011527-da58-4568-97f9-ec5c223ead8e,Tottenham Hotspur,Watford,true,true,true,2025-12-04 17:06:27.528349+00
+d21ac6a7-4a3e-4320-8655-98a168a3987e,b6cb1a95-0b7a-4320-bbbf-7227e9d4de42,e04c559e-ca37-400e-b70d-64cc03eb3361,Blackburn Rovers,Newcastle United,false,true,false,2025-12-01 12:40:58.018602+00
+d2a6af4c-8fbf-4331-8711-11cc076121d6,b6cb1a95-0b7a-4320-bbbf-7227e9d4de42,eb3628cb-9a74-4281-bc9f-ebff66ae268e,Brighton & Hove Albion,Blackburn Rovers,false,false,false,2025-12-04 22:49:58.612184+00
+d6520258-924c-459c-b4d1-c3438ea48b97,c405de58-68e9-4325-b6f5-181c5a285f51,e2ffaf02-f17f-4be3-b3ee-651d39315af1,Arsenal,Brighton & Hove Albion,true,true,true,2025-12-29 08:57:36.037617+00
+df8c5eed-e954-4de3-8426-4a1a42a37f01,fab7f553-3645-47d6-8e5d-08bcb55c34ad,e2ffaf02-f17f-4be3-b3ee-651d39315af1,Liverpool,Aston Villa,,,false,2026-01-12 06:35:29.039218+00
+e1265c73-0c8f-43e0-b520-93d4333ade67,c405de58-68e9-4325-b6f5-181c5a285f51,c4d0c372-0a8c-445d-9994-fe871e8eb544,Arsenal,Queens Park Rangers,true,true,true,2025-12-29 23:21:36.621366+00
+e39c405a-c00d-446c-8f2e-ba6eba132355,b6cb1a95-0b7a-4320-bbbf-7227e9d4de42,6bf245f8-9743-4b7b-ab78-dc0cdd591c6c,Newcastle United,Blackburn Rovers,true,false,false,2025-12-04 15:44:56.945906+00
+e6378fc6-1f9b-41f4-a1ac-2f4d36a97df5,b6cb1a95-0b7a-4320-bbbf-7227e9d4de42,95f43b8d-de0d-4dd2-a9bb-0cdfe02e247a,Manchester City,Newcastle United,true,true,true,2025-12-01 07:14:50.393874+00
+e87cb153-80c1-493c-ae26-db55c1b40149,b6cb1a95-0b7a-4320-bbbf-7227e9d4de42,f3b179ce-265d-4bf0-8c6c-a641504ea802,Manchester City,Newcastle United,true,true,true,2025-12-01 22:12:29.135116+00
+e8e124f1-74fd-4b35-b0ab-f5b66f427219,b6cb1a95-0b7a-4320-bbbf-7227e9d4de42,66022633-1ced-4920-a431-b74b54e98345,Coventry City,Wrexham,false,false,false,2025-12-03 20:04:38.423201+00
+f0135aac-3d78-47c0-a4b4-2aa42d0a2e7c,b6cb1a95-0b7a-4320-bbbf-7227e9d4de42,e28417e9-f154-4f39-bf0d-86cb6a1abc32,Arsenal,Chelsea,false,false,false,2025-12-02 00:17:12.922501+00
+f27595f8-cb67-49dc-b988-d0ac2fb1dd34,96abc6de-caa6-45cf-9094-20c65b85c551,e2ffaf02-f17f-4be3-b3ee-651d39315af1,Ipswich Town,Manchester City,true,true,true,2025-12-16 08:41:50.018444+00
+f4d28daa-e64d-4ee5-845b-2222c553ab5b,96abc6de-caa6-45cf-9094-20c65b85c551,857f0ddb-bbf7-490f-89e7-c393913d1937,Ipswich Town,Preston North End,true,false,false,2025-12-17 19:27:30.233605+00
+f57ba152-06ad-4fff-9b19-3f77c3f64b29,96abc6de-caa6-45cf-9094-20c65b85c551,9a205562-9e06-49d8-865b-a0dfb3de0b20,Bournemouth,Ipswich Town,false,true,false,2025-12-17 22:10:56.5621+00
